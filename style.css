@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: whitesmoke;
+}
+
+header {
+  background-color: black;
+  color: whitesmoke;
+ 
+  border-color: whitesmoke;
+
+}
+h1 {
+  line-height: 100px;
+  margin: 0;
+  text-align: center;
+}

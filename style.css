@@ -31,6 +31,7 @@ article {
   margin: 15px;
   padding: 10px;
 }
+
 footer {
   margin: 25px;
   color: black;
@@ -42,6 +43,6 @@ footer {
   justify-content: center;
 }
 .nav2a {
-  color: black;
+  color: darkslategray;
   text-decoration: none;
 }

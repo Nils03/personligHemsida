@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: whitesmoke;
+  background-color: white;
   display: flex;
   flex-direction: column;
 }
@@ -33,8 +33,12 @@ article {
 }
 
 footer {
+  height: 200px;
   margin: 25px;
   color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 #toppen {
   text-decoration: none;
@@ -45,4 +49,37 @@ footer {
 .nav2a {
   color: darkslategray;
   text-decoration: none;
+}
+#pokerBild {
+  width: 30%;
+  height: 30%;
+  margin: 20px;
+}
+#poker {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#chessBild{
+  width: 30%;
+  height: 30%;
+  margin: 20px;
+}
+#chess{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#skidaBild{
+  width: 70%;
+  height: 70%;
+}
+.bildCenter{
+  display:flex;
+  justify-content: center;
+}
+#NTI{
+  width: 30%;
+  height: 30%;
 }

@@ -61,25 +61,25 @@ footer {
   justify-content: space-between;
 }
 
-#chessBild{
+#chessBild {
   width: 30%;
   height: 30%;
   margin: 20px;
 }
-#chess{
+#chess {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-#skidaBild{
+#skidaBild {
   width: 70%;
   height: 70%;
 }
-.bildCenter{
-  display:flex;
+.bildCenter {
+  display: flex;
   justify-content: center;
 }
-#NTI{
+#NTI {
   width: 30%;
   height: 30%;
 }
